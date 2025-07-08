@@ -10,5 +10,8 @@ This repo contiains the code for a local RAG setup using:
 2. Install Ollama from https://ollama.com/
 3. Run the following command to download llama3.2 `ollama pull llama3.2:3b-instruct-fp16`
 
+## Run the project
+`uv run python .\main.py`
+
 ## References used
 - Code & main logic https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag_local/

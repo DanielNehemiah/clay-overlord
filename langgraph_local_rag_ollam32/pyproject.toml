@@ -1,9 +1,18 @@
 [project]
 name = "langgraph-local-rag-ollam32"
 version = "0.1.0"
-description = "Add your description here"
+description = "RAG with LangGraph & Ollama"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bs4>=0.0.2",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
     "langchain-nomic>=0.1.4",
+    "langchain-ollama>=0.3.3",
+    "langgraph>=0.5.1",
+    "nomic[local]>=3.5.3",
+    "scikit-learn>=1.7.0",
+    "tavily-python>=0.7.9",
+    "tiktoken>=0.9.0",
 ]
