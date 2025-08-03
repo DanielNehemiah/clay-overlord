@@ -10,6 +10,12 @@ Clay overlord refers to humans being overlords of AI. "Clay" is often used in th
 
 ## Useful Links
 
+### Videos
+1. RLHF Reinforcement Learning from Human Feedback
+    - https://www.youtube.com/watch?v=vJ4SsfmeQlk
+    - Human Feedback -> Reward Model
+    - Reward Model -> Reinforcement Learning
+
 ### With code
 1. Different *agentic system architectures* with *LangGraph*. Contains many good *examples*
     - https://langchain-ai.github.io/langgraph/tutorials/workflows/
