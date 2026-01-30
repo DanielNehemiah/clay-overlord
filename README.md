@@ -38,6 +38,9 @@ Interesting libraries & frameworks
 1. Building effective agents - Anthropic
     - Very good article on agentic systems
     - https://www.anthropic.com/engineering/building-effective-agents
+2. Introduction to Llama.cpp
+    - In depth content with examples
+    - https://blog.steelph0enix.dev/posts/llama-cpp-guide/
 
 ### Papers
 1. ReAct: Synergizing Reasoning and Acting in Language Models
